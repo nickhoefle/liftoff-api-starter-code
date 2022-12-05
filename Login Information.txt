@@ -1,0 +1,32 @@
+//The Movie DB - API Account//
+
+https://www.themoviedb.org/login
+Username: LazerSharks
+Password: N5ZVrk!sBFNmx4W
+API Key: 16012a33d67f443093071edcbcdfc9d0
+
+
+//Board Game API//
+
+https://www.boardgameatlas.com/api/docs
+Username: LazerSharks
+Password: 9MsWu@GuvmFukFk
+Client Id (API Key): P3yvzSB2mt
+
+
+//Google Books API//
+
+https://developers.google.com/books/docs/viewer/developers_guide
+Login: lazersharksbooks@gmail.com
+Password: 8wz3T&Cz$d*msWZ
+API Key: AIzaSyA_fNlN4nm1Dkba-D2XE1smV04vA5_42zY
+
+
+//Protonmail Account for API Keys//
+
+https://account.proton.me/login
+Email:    lazersharksapis@protonmail.com
+Password: 8wz3T&Cz$d*msWZ
+
+
+
